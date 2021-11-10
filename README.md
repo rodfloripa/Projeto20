@@ -10,7 +10,7 @@ o somatório de distâncias percorrida por cada veículo. A capacidade máxima d
 
 Instruções:
 
-Instale cvxpy: python -m pip install cvxpy
+Instale cvxpy digitando no terminal: python -m pip install cvxpy
 
 Se quiser utilizar apenas o otimizador SCIP, que é gratuito,troque no código a palavra GUROBI por SCIP. Gurobi é
 bem mais rápido, mas caso não queria instala-lo ou não tenha uma licença é a única opção.
@@ -18,9 +18,9 @@ bem mais rápido, mas caso não queria instala-lo ou não tenha uma licença é 
 Instale o SCIP: https://github.com/scipopt/PySCIPOpt 
 ou use um container docker com SCIP: https://viktorsapozhok.github.io/docker-scip-pyscipopt/
 
-python -m pip install pyscipopt
+Digite no terminal: python -m pip install pyscipopt
 
-Instale o Gurobi: python -m pip install gurobipy
+Instale o Gurobi pelo terminal: python -m pip install gurobipy
 
 Talvez voce precise de uma licença do Gurobi, no caso de problemas muito grandes
 
