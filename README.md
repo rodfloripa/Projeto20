@@ -12,8 +12,8 @@ Instruções:
 
 Instale cvxpy: python -m pip install cvxpy
 
-Se quiser utilizar apenas o otimizador SCIP, que é gratuito,troque no código a palavra GUROBI por SCIP.Gurobi é
-bem mais rápido,mas caso não queria instalar Gurobi ou não tenha uma licença é a única opção.
+Se quiser utilizar apenas o otimizador SCIP, que é gratuito,troque no código a palavra GUROBI por SCIP. Gurobi é
+bem mais rápido, mas caso não queria instala-lo ou não tenha uma licença é a única opção.
 
 Instale o SCIP: https://github.com/scipopt/PySCIPOpt 
 ou use um container docker com SCIP: https://viktorsapozhok.github.io/docker-scip-pyscipopt/
