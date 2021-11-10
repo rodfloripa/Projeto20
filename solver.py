@@ -85,6 +85,7 @@ def solve_it(input_data):
         # Get a list of all customer coordinates and a state vector selecting a fraction
         # of customers. Returns the state matrix with the order that gives the smallest
         # route length for the selected customers.
+        # Miller–Tucker–Zemlin formulation- https://en.wikipedia.org/wiki/Travelling_salesman_problem
         num_pts = sum([i>0.5 for i in state_vector])
         route_lst = [[] for i in range(0,num_pts)]
         for i in range(0,1):
