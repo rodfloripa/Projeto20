@@ -18,6 +18,8 @@ bem mais rápido, mas caso não queria instala-lo ou não tenha uma licença é 
 Instale o SCIP: https://github.com/scipopt/PySCIPOpt 
 ou use um container docker com SCIP: https://viktorsapozhok.github.io/docker-scip-pyscipopt/
 
+python -m pip install pyscipopt
+
 Instale o Gurobi: python -m pip install gurobipy
 
 Talvez voce precise de uma licença do Gurobi, no caso de problemas muito grandes
