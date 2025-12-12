@@ -24,6 +24,8 @@ Digite no terminal: python -m pip install pyscipopt
 
 Instale o Gurobi pelo terminal: python -m pip install gurobipy
 
+Para rodar: python solver.py vrp_5_4_1
+
 Talvez voce precise de uma licença do Gurobi, no caso de problemas muito grandes
 
 
