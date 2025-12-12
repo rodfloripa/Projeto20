@@ -8,7 +8,8 @@ Otimização de rotas de veículos.
 O problema fornece a localização x,y de n clientes e um armazém de distribuição com m veículos. Cada cliente possui uma demanda 'Di' a ser atendida, cada veículo no armazém possui uma capacidade máxima de atendimento 'Ci'. O objetivo é otimizar a seleção de veículos de forma a atender todos os clientes existentes, minimizando
 o somatório de distâncias percorrida por cada veículo. A capacidade máxima de atendimento de cada veículo não deve ser superada pelo somatório de demandas de clientes Di que estão em cada rota dos veículos.
 </p>
-![Recompensa no tempo](https://github.com/rodfloripa/Projeto20/blob/main/routing.png?raw=true)
+
+<img src="routing.png" alt="Project Screenshot" width="700" height="750">
 
 Instruções:
 
